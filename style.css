@@ -48,10 +48,12 @@ label{
     border: 1px solid var(--dark);
     justify-content: center;
     align-items: center;
+    text-align: center;
     box-shadow: 0 0 10px 2px rgb(0, 0, 0, 0.8);
     color: var(--light);
     text-shadow: var(--text-shadow);
     border-radius: 5px;
+        
     
 }
 .element:hover{
